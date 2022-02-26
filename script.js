@@ -48,8 +48,8 @@ How the last major application of nanostructures is in environmental preservatio
   </br></br>
 In conclusion, nanotechnology is one of the most astonishing developments of the last years, and it is declared that will shape the future in many social sectors, however, it imposes an enormous effort in research and implementation and also creates new challenges due to the cost of manufacturing and environmental effects. For that reason, it is expected that as the technologies advances appear the cost of design and implementation decrease.
 </p>
-<h4>Referencias</h4>
-<a href="https://raindrop.io/juandva2016/ensayo-infraestructura-23380186">https://raindrop.io/juandva2016/ensayo-infraestructura-23380186</a>
+<h5>Referencias</h5>
+<a href="https://raindrop.io/juandva2016/ensayo-infraestructura-23380186" target="_blank">https://raindrop.io/juandva2016/ensayo-infraestructura-23380186</a>
 </div>`
 ]
 

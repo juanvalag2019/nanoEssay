@@ -19,8 +19,15 @@ sub {
   display:block;
 }
 
-h3{
+h3,h5{
   padding:12px;
+  margin: 0;
+}
+
+a{
+  color: beige;
+  font-size: 14px;
+  padding:20px;
 }
 
 p {
