@@ -19,6 +19,10 @@ sub {
   display:block;
 }
 
+h3{
+  padding:12px;
+}
+
 p {
   padding:12px;
 }

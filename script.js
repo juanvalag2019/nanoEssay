@@ -47,7 +47,10 @@ How the last major application of nanostructures is in environmental preservatio
   Therefore this technology is being used to clean up the environment through nanodevices that detect and treat impurities in water, there are new nanomaterials with nanopores that are being used to improve the process of water desalination and other materials that absorb toxic materials for example petroleum oil in rivers.
   </br></br>
 In conclusion, nanotechnology is one of the most astonishing developments of the last years, and it is declared that will shape the future in many social sectors, however, it imposes an enormous effort in research and implementation and also creates new challenges due to the cost of manufacturing and environmental effects. For that reason, it is expected that as the technologies advances appear the cost of design and implementation decrease.
-</p></div>`
+</p>
+<h4>Referencias</h4>
+<a href="https://raindrop.io/juandva2016/ensayo-infraestructura-23380186">https://raindrop.io/juandva2016/ensayo-infraestructura-23380186</a>
+</div>`
 ]
 
 for (var i = 0; i < n; i++) {
